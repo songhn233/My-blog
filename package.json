@@ -11,6 +11,9 @@
   "hexo": {
     "version": "4.2.1"
   },
+  "resolutions": {
+    "minimist": "^1.2.5"
+  },
   "dependencies": {
     "minimist": "^1.2.5",
     "hexo": "^4.0.0",

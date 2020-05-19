@@ -16,7 +16,7 @@
     "minimist": "^1.2.5"
   },
   "dependencies": {
-    "hexo": "^4.0.0",
+    "hexo": "^4.2.1",
     "hexo-asset-image": "^1.0.0",
     "hexo-deployer-git": "^2.0.0",
     "hexo-filter-mathjax-ssr": "^0.1.1",

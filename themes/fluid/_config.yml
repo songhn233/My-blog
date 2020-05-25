@@ -361,5 +361,5 @@ links:
   banner_img_height: 80  # available: 0 - 100
   subtitle:  
   items:  # 键是友链标题、值的列表内容分别是 [链接, 简介, 头像]，头像可以省略
-     Songhn: [https://www.songhn.com/,啥都会的巨佬%%%, /img/songhn.bmp]
+     Songhn: [https://blog.songhn.com/,啥都会的巨佬%%%, /img/songhn.bmp]
      Gujunhao: [https://gutaiduanzhuang.github.io/,, /img/gjh.png]

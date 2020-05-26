@@ -5,7 +5,7 @@ tags: BIT
 categories: Acm
 ---
 
-# 树状数组
+## 树状数组
 
 今天听老刘讲了下树状数组，再结合自己的理解。补一篇学习笔记。
 
@@ -45,7 +45,7 @@ eg：12（1100）的lowbit值即为4（100）
 
 2.输出区间[l,r]内每个数的和
 
-<div align=left><img src="https://i.loli.net/2020/02/16/nmXEdWsApfSBjUD.jpg" alt="bit.jpg" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/02/16/nmXEdWsApfSBjUD.jpg" alt="bit.jpg" style="zoom:50%;" />
 
 如上图所示，原数组设为a，树状数组设为t。
 

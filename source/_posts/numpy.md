@@ -18,6 +18,9 @@ import numpy as np
 #生成一个元素为[-6,6]的int型3*3矩阵
 A=np.random.randint(-6,6,(3,3))
 B=np.random.randint(-6,6,(3,3))
+#行数,列数
+h=A.shape[0]
+r=A.shape[1]
 #转置矩阵
 A_T=A.T
 #逆矩阵

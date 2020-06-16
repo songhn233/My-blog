@@ -1,5 +1,6 @@
 ---
-title: kNN
+title: knn
+index_img: /img/uesd_1.jpg
 date: 2020-05-27 22:19:14
 tags: [python,kNN]
 categories: 机器学习

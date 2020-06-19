@@ -17,7 +17,7 @@ apple_touch_icon: /img/apple-touch-icon.png # 用于苹果设备的 icon
 
 title_join_string: ' - '  # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 
-force_https: false  # 强制所有链接升级为 HTTPS（适用于图片等资源出现 HTTP 混入报错）
+force_https: true  # 强制所有链接升级为 HTTPS（适用于图片等资源出现 HTTP 混入报错）
 
 highlight: # 代码高亮
   enable: true
@@ -127,8 +127,8 @@ footer:
   beian:  # The footer of China's website policy, other areas keep disable
     enable: true
     icp_text: 浙ICP证20017629号 # ICP证号
-    police_text:  # 公安备案号，不填则只显示ICP
-    police_code:  # 公安备案的编号，用于URL跳转查询
+    police_text: 浙公安网备33011802002042号 # 公安备案号，不填则只显示ICP
+    police_code: 33011802002042 # 公安备案的编号，用于URL跳转查询
     police_icon: /img/police_beian.png # 公安备案的图片. 为空时不显示备案图片
 
 scroll_top_arrow:  # 向顶部滚动的箭头

@@ -5,8 +5,6 @@
       addScript('<%= url_join(theme.static_prefix.valine, 'Valine.min.js') %>', function () {
         new Valine({
           el: "#vcomments",
-          enableQQ: true,
-          boolean: true,
           app_id: "<%= theme.valine.appid %>",
           app_key: "<%= theme.valine.appkey %>",
           placeholder: "<%= theme.valine.placeholder %>",

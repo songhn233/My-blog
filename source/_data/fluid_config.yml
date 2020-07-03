@@ -283,8 +283,6 @@ gitalk:
 # 完整文档 https://valine.js.org/configuration.html
 # 注意：下列配置项中的 true/false 不要用引号括起来
 valine:
-  enableQQ: true,
-  boolean: true,
   appid: 'U4yAAgvMYoKRD3TN4boNsGhh-gzGzoHsz' # your leancloud application appid
   appkey: 'FiVDP2QusCCkIBNp11GBXb4M' # your leancloud application appkey
   placeholder: 说点什么 # 评论框占位提示符
